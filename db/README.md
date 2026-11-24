@@ -1,1 +1,1 @@
-Your SQL goes here: schema.sql, load.js (only if you load your own data), queries.sql. See prompts/2_database.md.
+SQL goes here: schema.sql, load.sql, queries.sql. Put CSV files in db/data/ (git ignores it).
